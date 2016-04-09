@@ -6,8 +6,8 @@
             "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/3827a64cca7028ce8d57a27bab5c321852e911be"
         }, 
         "linux": {
-            "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/221e827a41cc2c122dcbcc34a4115885305d49af", 
-            "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/221e827a41cc2c122dcbcc34a4115885305d49af"
+            "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/3827a64cca7028ce8d57a27bab5c321852e911be", 
+            "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/3827a64cca7028ce8d57a27bab5c321852e911be"
         }
     }
 }
