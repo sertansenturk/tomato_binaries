@@ -2,8 +2,8 @@
     "repository_url": "https://github.com/sertansenturk/tomato_binaries", 
     "commit": {
         "macosx": {
-            "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/0cc4f2032a05035c5e29565375b0273f26490ced", 
-            "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/0cc4f2032a05035c5e29565375b0273f26490ced"
+            "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/e14cd887ed0e101ba214e80c97b41a0929a4fc7f", 
+            "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/e14cd887ed0e101ba214e80c97b41a0929a4fc7f"
         }, 
         "linux": {
             "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/0cc4f2032a05035c5e29565375b0273f26490ced", 
