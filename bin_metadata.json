@@ -2,12 +2,12 @@
     "repository_url": "https://github.com/sertansenturk/tomato_binaries", 
     "commit": {
         "macosx": {
-            "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/e14cd887ed0e101ba214e80c97b41a0929a4fc7f", 
-            "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/e14cd887ed0e101ba214e80c97b41a0929a4fc7f"
+            "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/b2406199c591a97f35f475248c6e2d34d37f34d8", 
+            "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/b2406199c591a97f35f475248c6e2d34d37f34d8"
         }, 
         "linux": {
-            "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/64a2654f610ab2d13de1389947742e520cbef578", 
-            "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/64a2654f610ab2d13de1389947742e520cbef578"
+            "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/b2406199c591a97f35f475248c6e2d34d37f34d8", 
+            "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/b2406199c591a97f35f475248c6e2d34d37f34d8"
         }
     }
 }
