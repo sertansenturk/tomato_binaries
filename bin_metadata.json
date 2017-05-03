@@ -13,8 +13,7 @@
     }, 
     "linux": {
       "MusikiToMusicXml": {
-        "date": "03 May 2017", 
-        "howobtained": "personal communication", 
+        "version": "V0.910",
         "email": "mogens at lundholm dot org", 
         "provider": "Mogens Lundholm"
       }, 
