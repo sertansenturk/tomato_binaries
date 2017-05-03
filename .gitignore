@@ -63,3 +63,6 @@ target/
 
 # linux related
 *.*~
+
+# pycharm
+.idea
