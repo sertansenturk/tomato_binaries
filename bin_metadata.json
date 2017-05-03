@@ -1,13 +1,25 @@
 {
-    "repository_url": "https://github.com/sertansenturk/tomato_binaries", 
-    "commit": {
-        "macosx": {
-            "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/b2406199c591a97f35f475248c6e2d34d37f34d8", 
-            "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/b2406199c591a97f35f475248c6e2d34d37f34d8"
-        }, 
-        "linux": {
-            "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/b2406199c591a97f35f475248c6e2d34d37f34d8", 
-            "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/b2406199c591a97f35f475248c6e2d34d37f34d8"
-        }
+  "repository_url": "https://github.com/sertansenturk/tomato_binaries", 
+  "commit": {
+    "macosx": {
+      "MusikiToMusicXml": {
+        "date": "26 April 2017", 
+        "howobtained": "personal communication", 
+        "email": "mogens at lundholm dot org", 
+        "provider": "Mogens Lundholm"
+      }, 
+      "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/b2406199c591a97f35f475248c6e2d34d37f34d8", 
+      "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/b2406199c591a97f35f475248c6e2d34d37f34d8"
+    }, 
+    "linux": {
+      "MusikiToMusicXml": {
+        "date": "03 May 2017", 
+        "howobtained": "personal communication", 
+        "email": "mogens at lundholm dot org", 
+        "provider": "Mogens Lundholm"
+      }, 
+      "alignAudioScore": "https://github.com/sertansenturk/fragmentLinker/commit/b2406199c591a97f35f475248c6e2d34d37f34d8", 
+      "extractTonicTempoTuning": "https://github.com/sertansenturk/fragmentLinker/commit/b2406199c591a97f35f475248c6e2d34d37f34d8"
     }
+  }
 }
