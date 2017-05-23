@@ -11,9 +11,9 @@ License and Copyright
 ---------------------
 Unless indicated otherwise, the binaries in this repository are licensed under [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
-__MusikiToMusicXml__ is created by Mogens Lundholm
-Copyright:   Mogens Lundholm 2017
-"You are free to use this program and even change it with addition of an appropriate copyright note."
+__MusikiToMusicXml__ is created by Mogens Lundholm 
+> Copyright: Mogens Lundholm 2017
+> "You are free to use this program and even change it with addition of an appropriate copyright note."
 
 Authors
 -------
