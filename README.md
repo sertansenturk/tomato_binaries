@@ -7,6 +7,14 @@ Introduction
 
 These binaries are not stored in **tomato** because they take several megabytes of space and it would take too much space to store them in the repository including the versions introduced in each modification. Instead the binaries are hosted in this repository. The relevant binaries are downloaded from this repository during the installation process of **tomato**.
 
+License and Copyright
+---------------------
+Unless indicated otherwise, the binaries in this repository are licensed under [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html).
+
+__MusikiToMusicXml__ is created by Mogens Lundholm
+Copyright:   Mogens Lundholm 2017
+"You are free to use this program and even change it with addition of an appropriate copyright note."
+
 Authors
 -------
 Sertan Şentürk
